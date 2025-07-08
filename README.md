@@ -1,4 +1,4 @@
-# 🏓 Snake Game
+# 🐍 Snake Game
 
 A **Simple Snake Game** built using **HTML, CSS, and JavaScript**, containerized with **Docker**.
 
