@@ -2,7 +2,11 @@
 
 A **Simple Snake Game** built using **HTML, CSS, and JavaScript**, containerized with **Docker**.
 
-![Snake Game Screenshot](https://github.com/atulkamble/snake-game/blob/main/snake-game.png)
+---
+
+## 📸 Screenshot
+
+![Snake Game](https://github.com/atulkamble/snake-game/blob/main/snake-game.png)
 
 ---
 
@@ -118,12 +122,6 @@ docker-compose stop
 # Stop and remove containers, networks, and volumes
 docker-compose down
 ```
-
----
-
-## 📸 Screenshot
-
-![Snake Game](https://github.com/atulkamble/snake-game/blob/main/snake-game.png)
 
 ---
 
