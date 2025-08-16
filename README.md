@@ -71,10 +71,6 @@ Notice — with V2 it’s `docker compose` (space) not `docker-compose` (hyphen)
 
 ### 🚀 Run the Docker Container
 
-```bash
-docker run -d -p 80:80 atuljkamble/snake-game
-```
-
 ---
 
 ## 🌐 Access the Game
