@@ -6,7 +6,6 @@ A **Simple Snake Game** built using **HTML, CSS, and JavaScript**, containerized
 
 ## 📸 Screenshot
 
-![Snake Game](https://github.com/atulkamble/snake-game/blob/main/snake-game.png)
 
 ---
 
@@ -22,10 +21,7 @@ A **Simple Snake Game** built using **HTML, CSS, and JavaScript**, containerized
 
 ### 🔻 Clone the Repository
 
-```bash
-git clone https://github.com/atulkamble/snake-game.git
-cd snake-game
-````
+
 ## 📌 Clean Reinstall of Docker Compose on Amazon Linux / EC2
 
 ### 1️⃣ Remove old docker-compose if it exists:
@@ -63,20 +59,14 @@ Notice — with V2 it’s `docker compose` (space) not `docker-compose` (hyphen)
 
 ### 📦 Build the Docker Image
 
-```bash
-docker build -t atuljkamble/snake-game .
-```
+
 
 ### 📤 Push the Docker Image (optional)
 
-```bash
-docker push atuljkamble/snake-game
-```
+
 
 ### 📥 Pull the Docker Image
 
-```bash
-docker pull atuljkamble/snake-game
 ```
 
 ### 🚀 Run the Docker Container
@@ -125,25 +115,5 @@ docker-compose down
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-**Atul Kamble**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
-- 🐙 [GitHub](https://github.com/atulkamble)
-- 🐦 [X](https://x.com/Atul_Kamble)
-- 📷 [Instagram](https://www.instagram.com/atuljkamble)
-- 🌐 [Website](https://www.atulkamble.in)
-
----
 
 
-## 🙌 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
